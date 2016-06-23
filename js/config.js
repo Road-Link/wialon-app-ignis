@@ -1,5 +1,5 @@
 var config = {
-	"name": "Ignis",
-	"lang": "en",
-	"homeUrl": "http://hosting.wialon.com"
+	"name": "Tableau d'Activités",
+	"lang": "fr",
+	"homeUrl": "http://portail.roadlink.fr"
 };
